@@ -1,9 +1,8 @@
 {
 	"resourcesPrefix": "../",
 	"resources": {
-		"batch 1 x32": "img/b1-32.png",
-		"batch 2 x32": "img/b2-32.png",
-		"batch 3 x32": "img/b3-32.png",
-		"batch 4 x32": "img/b4-32.png"
+		"bg tiles": "img/bgtiles.png",
+		"fg tiles": "img/fgtiles.png",
+		"stars": "img/stars.gif"
 	}
 }
